@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a2c66ac-7f27-4055-a14a-30d06b8f4738" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_00_BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_01_InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_02_SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_03_HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_04_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_05_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_06_BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_07_RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_08_NetherlandsFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_09_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_10_GetAllNotIncluded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_11_MaxGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_01/Code_12_SmallSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_02/Code_01_KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_02/Code_02_KMP_ShortestHaveTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_02/Code_03_KMP_T1SubtreeEqualsT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_02/Code_04_Manacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_02/Code_05_Manacher_ShortestEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_02/Code_06_BFPRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_01_Array_To_Stack_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_02_GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_03_StackAndQueueConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_04_DogCatQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_05_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_06_RandomPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_07_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_09_FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_10_PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_11_IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_12_SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_13_CopyListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_14_FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/Code_15_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_03/布隆过滤器.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_01_MadianQuick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_02_Less_Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_03_IPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_04_PaperFolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_05_PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_06_PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_07_DescendantNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_08_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_09_UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_04/Code_10_FindOneLessValueIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_01_TrieTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_02_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_03_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_04_TopologySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_05_Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_06_Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Code_07_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/GraphGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_05/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/AbstractBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/AbstractSelfBalancingBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/Code_01_MorrisTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/Code_02_SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_06/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_01_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_02_Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_03_Print_All_Subsquences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_04_Print_All_Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_05_Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_06_ReverseStackUsingRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_07_MinPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_08_Money_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_07/Code_09_Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_01_WaterProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_02_SubArrayMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_03_SlidingWindowMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_04_IsRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_05_RotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_06_LowestLexicography.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_07_BestArrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niuke/basic_class_08/Code_08_MaxABSBetweenLeftAndRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_24_VerifySquenceOfBST/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_27_BstToDouList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhioffer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_101_SymmetricTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_102_leveltravsal/LevelTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_102_leveltravsal/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_104_MaximumDepthofBinaryTree/leetcode_104_MaximumDepthofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_105_ConstructBinaryTreefromPreorderandInorderTraversal/BuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_110_BalancedBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_111_MinimumDepthofBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_112_TreePathSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_144_preoderTraversal/PreTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_144_preoderTraversal/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_145_postodertraversal/PostOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_145_postodertraversal/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_153_FindMinimuminRotatedSortedArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_154_FindMinimuminRotatedSortedArray2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_19_RemoveNthNodeFromEndofList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_19_RemoveNthNodeFromEndofList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_203_RemoveLinkedListElements/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_203_RemoveLinkedListElements/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_206_ReverseLinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_206_ReverseLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_21_MergeTwoSortedLists/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_21_MergeTwoSortedLists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_237_DeleteNodeinaLinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_237_DeleteNodeinaLinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_257_BinaryTreePaths/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_28_ImplementstrStr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_300_LIS/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_33_SearchInRotatedSortedArray/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_409_LongestPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_54_SpiralMatrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_572_SubtreeofAnotherTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_572_SubtreeofAnotherTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_61_RotateList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_61_RotateList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_75_SortColors/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_81_SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_94_InOderTraversal/InOderTrversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_94_InOderTraversal/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_98_ValidateBinarySearchTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q4/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseOderArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfmade/Code_00_BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfmade/Code_01_SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfmade/Code_02_InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selfmade/Code_03_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Node.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_300_LIS/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/leetcode_300_LIS/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/leetcode.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="510" />
+    <option name="y" value="17" />
+    <option name="width" value="1400" />
+    <option name="height" value="991" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_300_LIS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\F24\Desktop\leetcode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a2c66ac-7f27-4055-a14a-30d06b8f4738" name="Default Changelist" comment="" />
+      <created>1571576215461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571576215461</updated>
+      <workItem from="1571576222724" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="628000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="510" y="17" width="1400" height="991" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32905483" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32905483" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49925372" weight="0.32905483" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50149256" side_tool="true" visible="true" weight="0.32905483" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" sideWeight="0.49850747" visible="true" weight="0.32905483" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/q4/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_300_LIS/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
